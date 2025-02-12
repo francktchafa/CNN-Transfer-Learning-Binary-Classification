@@ -1,1 +1,1 @@
-dd
+This repository demonstrates the application of transfer learning for binary classification using the MobileNet v2 architecture. Transfer learning leverages the pre-trained knowledge of MobileNet v2, then fine-tuning the weights of the model to efficiently classify images into two distinct categories for our relatively small dataset.
